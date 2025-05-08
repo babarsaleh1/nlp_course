@@ -25,7 +25,7 @@ For example,
 Then you can access your jupyter in a browser at `localhost:<local_port>`. 
 
 If it asks you to enter token, you will find one in container logs, e.g. `localhost:8888/?token=ad1a5a0aab43efb47a9a805388fcf508d0b5f84a16e4542b&token=ad1a5a0aab43efb47a9a805388fcf508d0b5f84a16e4542b`.
-
+Then you can access your jupyter in a browser at `localhost:<local_port>`. 
 ## Manual
 Build container
 
