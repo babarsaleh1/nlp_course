@@ -30,7 +30,7 @@ If it asks you to enter token, you will find one in container logs, e.g. `localh
 Build container
 
 `$ docker build -t nlp .`
-
+If it asks you to enter token, you will find one in container logs, e.g. `localhost:8888/?
 
 Run it
 
